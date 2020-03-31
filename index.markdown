@@ -1,4 +1,5 @@
 ---
+title: The Main Page
 layout: home
 ---
 
