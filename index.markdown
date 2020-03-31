@@ -1,5 +1,6 @@
 ---
 title: The Main Page
+subject: main-idea
 layout: home
 ---
 
